@@ -28,10 +28,10 @@ Gur jnyyf pybfr va, gur funqbjf juvfcre bs pbafcvenpl
 ```
 ### Задание 3
 Дешифруйте. <br>
-
-![pigpen_1](images/pigpen_1.jpg)
-![pigpen_2](images/pigpen_2.jpg)
-![pigpen_3](images/pigpen_3.jpg)
+![pigpen_alpabet](images/asd.jpg) <br>
+![pigpen_1](images/pigpen_1.jpg) <br>
+![pigpen_2](images/pigpen_2.jpg) <br>
+![pigpen_3](images/pigpen_3.jpg) <br>
 
 ## Решетка Кардано
 ### Задание 1.
